@@ -2,4 +2,4 @@
 
 # Preview Link
 
-https://sachinprajapati8604.github.io/Alarm-Clock/
+http://fardeen787.me/alarm-clock/
